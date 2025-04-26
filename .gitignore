@@ -1,6 +1,4 @@
-app
-*.o
-.vscode
-*.a
-*.d
+bin/units
 bin/test
+obj/
+obj/test/
